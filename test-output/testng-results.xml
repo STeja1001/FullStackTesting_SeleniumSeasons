@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-07T13:56:17 IST" name="Default suite" finished-at="2025-09-07T13:57:05 IST" duration-ms="47728">
+    <groups>
+    </groups>
+    <test started-at="2025-09-07T13:56:17 IST" name="Default test" finished-at="2025-09-07T13:57:05 IST" duration-ms="47728">
+      <class name="assignments.Assignment06">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:assignments.Assignment06@5b218417]" started-at="2025-09-07T13:56:17 IST" name="browserLaunch" finished-at="2025-09-07T13:56:36 IST" duration-ms="18801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="assignment06Test()[pri:0, instance:assignments.Assignment06@5b218417]" started-at="2025-09-07T13:56:36 IST" name="assignment06Test" finished-at="2025-09-07T13:57:02 IST" duration-ms="26272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment06Test -->
+        <test-method is-config="true" signature="driverQuit()[pri:0, instance:assignments.Assignment06@5b218417]" started-at="2025-09-07T13:57:02 IST" name="driverQuit" finished-at="2025-09-07T13:57:05 IST" duration-ms="2569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- assignments.Assignment06 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
